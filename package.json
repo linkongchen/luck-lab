@@ -1,0 +1,7 @@
+{
+  "name": "luck-lab",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A small, local-first probability playground",
+  "scripts": { "start": "node serve.mjs", "test": "node --test tests/engine.test.cjs" }
+}
